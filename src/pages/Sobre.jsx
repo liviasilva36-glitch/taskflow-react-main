@@ -22,7 +22,7 @@ function Sobre() {
       <h2>Desenvolvedor</h2>
 
       <p>
-        Desenvolvedora: Ayara Dantas
+        Desenvolvedora: Ana Livia
         <br />
         Turma: Full stack - Senai CTGás
       </p>

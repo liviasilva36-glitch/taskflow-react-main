@@ -16,8 +16,8 @@ function TarefaV1() {
   // ───────────────────────────────────────────────────────────
   // 1.1 Estados principais
   // ───────────────────────────────────────────────────────────
-  const URL_API = 'https://6a85ab4c9c451dc67a63eddd.mockapi.io/tarefas';
-
+  const URL_API = 'https://6a8c289f63f113bab0b7f5d3.mockapi.io/tarefas';
+  
   const [modalAberto, setModalAberto] = useState(false);
   const [tarefaEditando, setTarefaEditando] = useState(null);
   const [colunaAtiva, setColunaAtiva] = useState('afazer');
